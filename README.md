@@ -1,36 +1,39 @@
 <h1 align="center">Hi 👋, I'm Abhay Chandel</h1>
-<h3 align="center">A passionate Full Stack Developer from Roorkee, India</h3>
+<h3 align="center">An aspiring Data Scientist & Machine Learning Enthusiast from Roorkee, India</h3>
 
-- 🔭 I’m currently working on **eCommerce Backend with Flask and MongoDB**
+- 🔭 I’m currently working on **Machine Learning and Data Analysis projects**
 
-- 🌱 I’m learning **JWT Authentication, API Security, and MongoDB queries**
+- 🌱 I’m learning **Data Science, Machine Learning Algorithms, and Model Evaluation**
 
-- 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/Abhaychandel15)
+- 👨‍💻 All of my projects are available at  
+  <a href="https://github.com/Abhaychandel15">My GitHub Repositories</a>
 
 - 📫 How to reach me **abuaychandel525@gmail.com**
 
-- 💬 Ask me about **Flask, REST APIs, MongoDB, JWT, Python**
+- 💬 Ask me about **Python, Data Analysis, Machine Learning, Pandas, NumPy, Scikit-learn**
 
-- 📄 Resume: [LinkedIn Profile](https://www.linkedin.com/in/abhay-chandel-495b722a3/)
+- 📄 Resume:  
+  <a href="https://www.linkedin.com/in/abhay-chandel-495b722a3/">LinkedIn Profile</a>
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack (Data Science):
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)
 
 ---
 
-### 📌 Projects:
+### 📌 Projects (Data Science / ML):
 
-- 🔐 [E-commerce Backend (Flask + JWT + MongoDB)](https://github.com/Abhaychandel15/ecommerce-backend-flask)  
-  RESTful backend API for e-commerce app using Flask, MongoDB, and JWT auth.
+- 🌸 <a href="https://github.com/Abhaychandel15/iris-flower-classification">Iris Flower Classification</a>  
+  Built a Machine Learning model using **Random Forest Classifier** to predict iris flower species with high accuracy.
 
-
+- 🧑‍💻 <a href="https://github.com/Abhaychandel15/The-only-coders">The Only Coders</a>  
+  A data analysis project built using <b>pure Python</b>, focusing on user data exploration and mutual friends suggestion logic using JSON data.
 
 ---
 
@@ -46,7 +49,10 @@
 ### 🤝 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhay-chandel-495b722a3/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:abuaychandel525@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhay-chandel-495b722a3/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abuaychandel525@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
