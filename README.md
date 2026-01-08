@@ -2,16 +2,11 @@
 <h3 align="center">An aspiring Data Scientist & Machine Learning Enthusiast from Roorkee, India</h3>
 
 - 🔭 I’m currently working on **Machine Learning and Data Analysis projects**
-
 - 🌱 I’m learning **Data Science, Machine Learning Algorithms, and Model Evaluation**
-
 - 👨‍💻 All of my projects are available at  
   <a href="https://github.com/Abhaychandel15">My GitHub Repositories</a>
-
 - 📫 How to reach me **abuaychandel525@gmail.com**
-
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, Pandas, NumPy, Scikit-learn**
-
 - 📄 Resume:  
   <a href="https://www.linkedin.com/in/abhay-chandel-495b722a3/">LinkedIn Profile</a>
 
@@ -29,11 +24,16 @@
 
 ### 📌 Projects (Data Science / ML):
 
+- 🏠 <a href="https://github.com/Abhaychandel15/California-City-House-Price-Predictions">California City House Price Prediction</a>  
+  End-to-end **Machine Learning regression project** using **Random Forest Regressor**.  
+  Implemented **Pipelines, ColumnTransformer, feature scaling, OneHotEncoding**, and **cross-validation**.  
+  Used **model persistence (Pickle/Joblib)** to avoid retraining during inference.
+
 - 🌸 <a href="https://github.com/Abhaychandel15/iris-flower-classification">Iris Flower Classification</a>  
   Built a Machine Learning model using **Random Forest Classifier** to predict iris flower species with high accuracy.
 
 - 🧑‍💻 <a href="https://github.com/Abhaychandel15/The-only-coders">The Only Coders</a>  
-  A data analysis project built using <b>pure Python</b>, focusing on user data exploration and mutual friends suggestion logic using JSON data.
+  A data analysis project built using **pure Python**, focusing on user data exploration and mutual friends suggestion logic using JSON data.
 
 ---
 
