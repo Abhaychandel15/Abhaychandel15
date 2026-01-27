@@ -23,6 +23,12 @@
 ---
 
 ### 📌 Projects (Data Science / ML):
+- 🚦 <a href="https://github.com/Abhaychandel15/Delhi-Traffic-Time-Prediction">Delhi Traffic Travel Time Prediction</a>  
+  Built an **end-to-end Machine Learning regression system** to predict **travel time (in minutes)** for Delhi city routes.  
+  Implemented a **full ML pipeline** using **ColumnTransformer**, handling **numerical & categorical preprocessing**, missing values, and unseen categories.  
+  Used **Random Forest Regressor** for non-linear traffic patterns and applied **model persistence (Joblib)** for efficient inference without retraining.  
+  Focused on **real-world features** like traffic density, weather conditions, road type, distance, and time of day.
+
 
 - 🏠 <a href="https://github.com/Abhaychandel15/California-City-House-Price-Predictions">California City House Price Prediction</a>  
   End-to-end **Machine Learning regression project** using **Random Forest Regressor**.  
