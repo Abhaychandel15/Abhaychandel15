@@ -1,42 +1,52 @@
 <h1 align="center">Hi 👋, I'm Abhay Chandel</h1>
-<h3 align="center">An aspiring Data Scientist & Machine Learning Enthusiast from Roorkee, India</h3>
+<h3 align="center">Data Analyst | Machine Learning Enthusiast | Python, SQL, Power BI</h3>
+
+<p align="center">
+Aspiring Data Scientist passionate about transforming data into actionable insights using Data Analysis, Machine Learning, and Visualization.
+</p>
 
 - 🔭 I’m currently working on **Machine Learning and Data Analysis projects**
 - 🌱 I’m learning **Data Science, Machine Learning Algorithms, and Model Evaluation**
 - 👨‍💻 All of my projects are available at  
   <a href="https://github.com/Abhaychandel15">My GitHub Repositories</a>
 - 📫 How to reach me **abuaychandel525@gmail.com**
-- 💬 Ask me about **Python, Data Analysis, Machine Learning, Pandas, NumPy, Scikit-learn**
-- 📄 Resume:  
+- 💬 Ask me about **Python, SQL, Data Analysis, Machine Learning, Pandas, NumPy, Scikit-learn**
+- 📄 Resume / Professional Profile  
   <a href="https://www.linkedin.com/in/abhay-chandel-495b722a3/">LinkedIn Profile</a>
 
 ---
 
-### 🛠️ Tech Stack (Data Science):
+### 🛠️ Tech Stack (Data Science & Analytics)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E4053?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📌 Projects (Data Science / ML):
-- 🎬 <a href="https://github.com/Abhaychandel15/Netflix-Data-Analysis-Project">Netflix Data Analysis & Visualization</a>  
-  Performed **end-to-end data analysis** on Netflix content dataset using **Python and Pandas** to uncover patterns in movies and TV shows.  
-  Conducted **data cleaning and preprocessing**, including handling missing values, removing duplicates, and transforming columns for analysis.  
-  Applied **feature engineering techniques** such as splitting multi-value columns and using **explode()** for genre and country analysis.  
-  Utilized **groupby operations and aggregations** to analyze content distribution, genre popularity, and country-wise production trends.  
-  Built an **interactive dashboard in Power BI** to visualize insights like **movies vs TV shows distribution, genre trends, country contributions, rating distribution, and content growth over time**.
+### 📌 Projects (Data Science / Machine Learning)
 
-  
+These projects demonstrate my skills in **Data Cleaning, Exploratory Data Analysis, Machine Learning, and Data Visualization.**
+
 - 🚦 <a href="https://github.com/Abhaychandel15/Delhi-Traffic-Time-Prediction">Delhi Traffic Travel Time Prediction</a>  
   Built an **end-to-end Machine Learning regression system** to predict **travel time (in minutes)** for Delhi city routes.  
   Implemented a **full ML pipeline** using **ColumnTransformer**, handling **numerical & categorical preprocessing**, missing values, and unseen categories.  
   Used **Random Forest Regressor** for non-linear traffic patterns and applied **model persistence (Joblib)** for efficient inference without retraining.  
   Focused on **real-world features** like traffic density, weather conditions, road type, distance, and time of day.
 
+- 🎬 <a href="https://github.com/Abhaychandel15/Netflix-Data-Analysis-Project">Netflix Data Analysis & Visualization</a>  
+  Performed **end-to-end data analysis** on Netflix content dataset using **Python and Pandas** to uncover patterns in movies and TV shows.  
+  Conducted **data cleaning and preprocessing**, including handling missing values, removing duplicates, and transforming columns for analysis.  
+  Applied **feature engineering techniques** such as splitting multi-value columns and using **explode()** for genre and country analysis.  
+  Utilized **groupby operations and aggregations** to analyze content distribution, genre popularity, and country-wise production trends.  
+  Built an **interactive dashboard in Power BI** to visualize insights like **movies vs TV shows distribution, genre trends, country contributions, rating distribution, and content growth over time**.
 
 - 🏠 <a href="https://github.com/Abhaychandel15/California-City-House-Price-Predictions">California City House Price Prediction</a>  
   End-to-end **Machine Learning regression project** using **Random Forest Regressor**.  
@@ -60,7 +70,7 @@
 
 ---
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhay-chandel-495b722a3/">
