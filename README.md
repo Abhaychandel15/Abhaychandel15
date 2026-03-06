@@ -23,6 +23,14 @@
 ---
 
 ### 📌 Projects (Data Science / ML):
+- 🎬 <a href="https://github.com/Abhaychandel15/Netflix-Data-Analysis-Project">Netflix Data Analysis & Visualization</a>  
+  Performed **end-to-end data analysis** on Netflix content dataset using **Python and Pandas** to uncover patterns in movies and TV shows.  
+  Conducted **data cleaning and preprocessing**, including handling missing values, removing duplicates, and transforming columns for analysis.  
+  Applied **feature engineering techniques** such as splitting multi-value columns and using **explode()** for genre and country analysis.  
+  Utilized **groupby operations and aggregations** to analyze content distribution, genre popularity, and country-wise production trends.  
+  Built an **interactive dashboard in Power BI** to visualize insights like **movies vs TV shows distribution, genre trends, country contributions, rating distribution, and content growth over time**.
+
+  
 - 🚦 <a href="https://github.com/Abhaychandel15/Delhi-Traffic-Time-Prediction">Delhi Traffic Travel Time Prediction</a>  
   Built an **end-to-end Machine Learning regression system** to predict **travel time (in minutes)** for Delhi city routes.  
   Implemented a **full ML pipeline** using **ColumnTransformer**, handling **numerical & categorical preprocessing**, missing values, and unseen categories.  
